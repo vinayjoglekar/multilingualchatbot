@@ -1,0 +1,5 @@
+{
+	"loyalty": "Your loyalty points are %s",
+	"address": "Your delivery address is %s",
+	"address_change":"Your new delivery address is set to %s"
+}

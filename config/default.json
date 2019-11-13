@@ -1,0 +1,17 @@
+{
+  "dbConfig": {
+      "host": "mongodb://localhost:27017/",
+      "port": 80,
+      "dbName": "chromadb",
+      "collectionName" : "customers"
+  },
+  "errormessages" : {
+      "connectionError" : "Error connecting database",
+      "fetchError" : "Error fetching details",
+      "bad request" : "req undefined"
+  },
+  "collectionsConfig" :{
+     "loyalty": "Loyalty Points",
+     "address": "Address 1"
+  }
+}
